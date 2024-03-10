@@ -1,0 +1,9 @@
+.item:hover{
+
+    transform:scale(1.1);
+    z-index: 2;
+
+}
+.item{
+    transition: 1s;
+}
